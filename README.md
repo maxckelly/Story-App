@@ -36,9 +36,41 @@
 
 ## Application Architecture Diagram - Tess / Luke?
 
-## User Stories - Max
+## User Stories - Max / Tess / Luke
 
-## Wire frames for multiple standard screen sizes, created using industry standard software - Max
+## Wire frames for multiple standard screen sizes, created using industry standard software - Max 
+
+- Note: This application was designed for mobile first.
+- Below is the wire frames for a mobile devise:
+
+![Mobile Design](./images/mobileDesigns/01_mobile_design.png)
+
+![Mobile Design](./images/mobileDesigns/02_mobile_design.png)
+
+![Mobile Design](./images/mobileDesigns/03_mobile_design.png)
+
+![Mobile Design](./images/mobileDesigns/04_mobile_design.png)
+
+![Mobile Design](./images/mobileDesigns/05_mobile_design.png)
+
+![Mobile Design](./images/mobileDesigns/06_mobile_design.png)
+
+![Mobile Design](./images/mobileDesigns/07_mobile_design.png)
+
+![Mobile Design](./images/mobileDesigns/08_mobile_design.png)
+
+![Mobile Design](./images/mobileDesigns/09_mobile_design.png)
+
+![Mobile Design](./images/mobileDesigns/10_mobile_design.png)
+
+![Mobile Design](./images/mobileDesigns/11_mobile_design.png)
+
+![Mobile Design](./images/mobileDesigns/12_mobile_design.png)
+
+- The below is designs for desktop: 
+
+
+
 
 ## Screenshots of your Jira board throughout the duration of the project
 
