@@ -38,6 +38,16 @@
 
 ## User Stories - Max / Tess / Luke
 
+  - As a user, I want to record and capture great stories from loved ones, friends and interesting people so that I can share them amongst family or to a great audience. 
+
+  - As a user, I want to browse and listen to particular stories in my area so that I can expand my knowledge and understanding of what other people have gone through. 
+
+  - As a user, I want to be able to save stories that I like so that I can come back to them at a later date.
+
+  - As a user, I want to be able to share stories so that I share and talk to my friends about what I listened to. 
+
+  - As a user, I find it hard to ask the right questions so I can get the most out of my interviewee.
+
 ## Wire frames for multiple standard screen sizes, created using industry standard software - Max 
 
 - Note: This application was designed for mobile first.
