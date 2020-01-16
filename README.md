@@ -33,7 +33,10 @@
   - AWS - Audio and image storage
 
 ## Dataflow Diagram - Tess
-![Data Flow Diagram](images/dataFlowDiagram/data_flow_diagram_0.png)
+The first diagram is an overview of data flow throughout the whole app, while the other diagrams go into further detail about processes occurring within the app.
+![Data Flow Diagram - Overview](images/dataFlowDiagram/data_flow_diagram_0.png)
+![Data Flow Diagram - Story Processes](images/dataFlowDiagram/data_flow_diagram_1a.png)
+![Data Flow Diagram - User Processes](images/dataFlowDiagram/data_flow_diagram_1b.png)
 
 ## Application Architecture Diagram - Tess / Luke?
 
