@@ -72,8 +72,8 @@
   - For all designs online see: https://sketch.cloud/s/kRppA 
   - For prototype and interaction with the desktop designs please see: https://sketch.cloud/s/kRppA/a/pnnA8o/play 
   - For prototype and interaction with the mobile designs please see: https://sketch.cloud/s/kRppA/v/m1kR0k/a/gnnoZz/play 
-
   - Note: This application was designed for mobile first.
+
   - Below is the wire frames for a mobile devise:
 
   ![Mobile Design](./images/mobileDesigns/01_mobile_design.png)
