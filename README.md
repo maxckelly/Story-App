@@ -60,7 +60,9 @@
 
     - As Bridget I want to be able to share touching and interesting stories with my boyfriend and social network so I can make them aware of what is out there in the world.
 
-    - 
+    - As Bridget I want to be able to interview interesting people to create amazing stories
+    
+    - As Bridget I want to be able to share my stories I create to a global audience quickly and easily
 
 
 ## Wire frames for multiple standard screen sizes, created using industry standard software - Max
