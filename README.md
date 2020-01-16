@@ -116,9 +116,6 @@
 
   ![Desktop Design](./images/desktopDesigns/08_desktop_design.png)
 
-
-
-
 ## Screenshots of your Jira board throughout the duration of the project
 
   ![Jira Progress](./images/jiraProgress/01-jira-progress.png)
