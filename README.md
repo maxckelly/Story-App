@@ -42,19 +42,6 @@
 
 ## User Stories - Max / Tess / Luke
 
-<<<<<<< HEAD
-- As a user, I want to record and capture great stories from loved ones, friends and interesting people so that I can share them amongst family or to a great audience.
-
-- As a user, I want to browse and listen to particular stories in my area so that I can expand my knowledge and understanding of what other people have gone through.
-
-- As a user, I want to be able to save stories that I like so that I can come back to them at a later date.
-
-- As a user, I want to be able to share stories so that I share and talk to my friends about what I listened to.
-
-- As a user, I find it hard to ask the right questions so I can get the most out of my interviewee.
-
-## Wire frames for multiple standard screen sizes, created using industry standard software - Max
-=======
   - Persona 1:
 
     - Hi, I'm John a 40 year old, living in Melbourne, Victoria. I'm currently married to my wife Alice and we have twin boys aged 4 and 1 girl aged 7. After recently finding out that my Dad was very sick and only had a number of years to live I became very interested capturing his story so that my children could understand what my Dad was like and how he became who he is today.
@@ -66,7 +53,6 @@
     - As John I want to be able to save stories that I like so that I can come back to them at a later date.
 
     - As John, I want to be able to share stories about my Dad to only my family and friends. 
->>>>>>> 13a8ab80ead19a4cd2ab5aa771fd5f3812cf5593
 
     - As John, I find it hard to ask the right questions so I can get the most information out of my Dad.
     
@@ -100,11 +86,7 @@
 
   ![Mobile Design](./images/mobileDesigns/03_mobile_design.png)
 
-<<<<<<< HEAD
-- The below is designs for desktop:
-=======
   ![Mobile Design](./images/mobileDesigns/04_mobile_design.png)
->>>>>>> 13a8ab80ead19a4cd2ab5aa771fd5f3812cf5593
 
   ![Mobile Design](./images/mobileDesigns/05_mobile_design.png)
 
@@ -158,12 +140,8 @@
 
   ![Jira Progress](./images/jiraProgress/08-jira-progress.png)
 
-<<<<<<< HEAD
-![Jira Progress](./images/jiraProgress/08-jira-progress.png)
-=======
   ![Jira Progress](./images/jiraProgress/09-jira-progress.png)
   
   ![Jira Progress](./images/jiraProgress/10-jira-progress.png)
 
 
->>>>>>> 13a8ab80ead19a4cd2ab5aa771fd5f3812cf5593
