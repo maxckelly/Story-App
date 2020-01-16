@@ -51,7 +51,7 @@
 ## Wire frames for multiple standard screen sizes, created using industry standard software - Max 
 
 - Note: This application was designed for mobile first.
-- Below is the wire frames for a mobile devise:
+- Below is the wire frames for a mobile device:
 
 ![Mobile Design](./images/mobileDesigns/01_mobile_design.png)
 
