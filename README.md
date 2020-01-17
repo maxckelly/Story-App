@@ -2,11 +2,11 @@
 
 ### Purpose
 
-- Stoaree is an online platform allowing users to share and create compelling interviews easily with another individual based off Mark Howards line of questions. After Mark Howard created his podcast "Howie Games" which has amassed up to 20 million listens he started to get contacted to interview the loved ones of his listeners who were either sick or elderly and to capture their story and how they came to be who they're today. This soon lead to the idea of Stoaree. The purpose of Stoaree is to allow users to easily capture compelling stories from family members, friends or interesting people based off the questions Mark asks in his podcasts. Along with capturing the stories it also becomes a place to share them with the world... A social aspect allowing users to listen to stories around them. Mark wants to also capture the important memories in people's lives and allow them to easily share them amongst family members and store them in one place.
+  - Stoaree is an online platform allowing users to share and create compelling interviews easily with another individual based off Mark Howards line of questions. After Mark Howard created his podcast "Howie Games" which has amassed up to 20 million listens he started to get contacted to interview the loved ones of his listeners who were either sick or elderly and to capture their story and how they came to be who they're today. This soon lead to the idea of Stoaree. The purpose of Stoaree is to allow users to easily capture compelling stories from family members, friends or interesting people based off the questions Mark asks in his podcasts. Along with capturing the stories it also becomes a place to share them with the world... A social aspect allowing users to listen to stories around them. Mark wants to also capture the important memories in people's lives and allow them to easily share them amongst family members and store them in one place.
 
 ### Functionality / features
 
-- The functionality and features of the application is heavily based around audio and the telling of a story. The functionality of the application is to allow the user to perform the task of recording an story based on the questions asked through the application. Depending on each response by the user will depend on the questions asked through the application. The features of Stoaree will be:
+  - The functionality and features of the application is heavily based around audio and the telling of a story. The functionality of the application is to allow the user to perform the task of recording an story based on the questions asked through the application. Depending on each response by the user will depend on the questions asked through the application. The features of Stoaree will be:
 
   1. Allowing the user to start and stop recordings based on questions seen on the screen,
   2. Store stories which they have recorded on their profile,
@@ -19,28 +19,28 @@
 
 ### Target audience
 
-- The target audience of Stoaree is between the ages of 40 - 70 both men and women. The target audience currently has a family and has progressed into their career, they now are beginning to think about what they're wanting to leave behind for their family as well as gaining all the information about their parents so their grandchildren can understand who they were as a person and get an understanding of what they went through in their lifetime.
+  - The target audience of Stoaree is between the ages of 40 - 70 both men and women. The target audience currently has a family and has progressed into their career, they now are beginning to think about what they're wanting to leave behind for their family as well as gaining all the information about their parents so their grandchildren can understand who they were as a person and get an understanding of what they went through in their lifetime.
 
 ### Tech stack
 
-- MERN
+  - MERN
 
-1. Node.js
-2. Express.js
-3. React.js
-4. MongoDB / Mongoose
+  1. Node.js
+  2. Express.js
+  3. React.js
+  4. MongoDB / Mongoose
 
-- Heroku - Backend deployment
-- Netilfy - Front-end deployment
-- AWS - Audio and image storage
+  - Heroku - Backend deployment
+  - Netilfy - Front-end deployment
+  - AWS - Cloud storage for audio files and images
 
-## Dataflow Diagram - Tess
+## Dataflow Diagram
 
 ## Application Architecture Diagram
 
-![Application Architecture Diagram](./images/ApplicationArchitectureDiagram/asf.png)
+  ![Application Architecture Diagram](./images/ApplicationArchitectureDiagram/asf.png)
 
-## User Stories - Max / Tess / Luke
+## User Stories
 
 - Persona 1:
 
@@ -58,6 +58,7 @@
 
 - Persona 2:
 
+<<<<<<< HEAD
   - Hi, I'm Bridget a 30 year old living in rural Victoria. I'm currently working full time as a receptionist and living with my boyfriend. Having grown up in rural Victoria I have had a yearn to know more about what other people in different parts of the world have gone through. I love understanding how people came to be who they are through their struggles, people they meet and paths they take in life. My dream as a child I wanted to be a journalist travelling around the world discovering stories.
 
     - As Bridget I want to browse and listen to particular stories around the world so they I can expand my knowledge and get an understanding of what other people have gone through.
@@ -65,6 +66,17 @@
     - As Bridget I want to save interesting and touching stories so that I can come back and listen to them when I want.
 
     - As Bridget I want to be able to share touching and interesting stories with my boyfriend and social network so I can make them aware of what is out there in the world.
+=======
+      - As Bridget I want to browse and listen to particular stories around the world so they I can expand my knowledge and get an understanding of what other people have gone through.
+
+      - As Bridget I want to save interesting and touching stories so that I can come back and listen to them when I want.
+
+      - As Bridget I want to be able to share touching and interesting stories with my boyfriend and social network so I can make them aware of what is out there in the world.
+
+      - As Bridget I want to be able to interview interesting people to create amazing stories
+  
+      - As Bridget I want to be able to share my stories I create to a global audience quickly and easily
+>>>>>>> 965ad1c5d70c0dafb88ea9ebe37c414388846bea
 
     - As Bridget I want to be able to interview interesting people to create amazing stories
 
@@ -78,14 +90,23 @@
 
 - As Noah, Stoaree helps me keep up to date with the latest stories trending on the internet
 
-## Wire frames for multiple standard screen sizes, created using industry standard software - Max
+## Wire frames for multiple standard screen sizes, created using industry standard software
 
+<<<<<<< HEAD
 - For all designs online see: https://sketch.cloud/s/kRppA
 - For prototype and interaction with the desktop designs please see: https://sketch.cloud/s/kRppA/a/pnnA8o/play
 - For prototype and interaction with the mobile designs please see: https://sketch.cloud/s/kRppA/v/m1kR0k/a/gnnoZz/play
 
 - Note: This application was designed for mobile first.
 - Below is the wire frames for a mobile devise:
+=======
+  - For all designs online see: https://sketch.cloud/s/kRppA 
+  - For prototype and interaction with the desktop designs please see: https://sketch.cloud/s/kRppA/a/pnnA8o/play 
+  - For prototype and interaction with the mobile designs please see: https://sketch.cloud/s/kRppA/v/m1kR0k/a/gnnoZz/play 
+  - Note: This application was designed for mobile first.
+
+  - Below is the wire frames for a mobile devise:
+>>>>>>> 965ad1c5d70c0dafb88ea9ebe37c414388846bea
 
 ![Mobile Design](./images/mobileDesigns/01_mobile_design.png)
 
