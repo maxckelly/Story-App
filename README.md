@@ -58,15 +58,6 @@
 
 - Persona 2:
 
-<<<<<<< HEAD
-  - Hi, I'm Bridget a 30 year old living in rural Victoria. I'm currently working full time as a receptionist and living with my boyfriend. Having grown up in rural Victoria I have had a yearn to know more about what other people in different parts of the world have gone through. I love understanding how people came to be who they are through their struggles, people they meet and paths they take in life. My dream as a child I wanted to be a journalist travelling around the world discovering stories.
-
-    - As Bridget I want to browse and listen to particular stories around the world so they I can expand my knowledge and get an understanding of what other people have gone through.
-
-    - As Bridget I want to save interesting and touching stories so that I can come back and listen to them when I want.
-
-    - As Bridget I want to be able to share touching and interesting stories with my boyfriend and social network so I can make them aware of what is out there in the world.
-=======
       - As Bridget I want to browse and listen to particular stories around the world so they I can expand my knowledge and get an understanding of what other people have gone through.
 
       - As Bridget I want to save interesting and touching stories so that I can come back and listen to them when I want.
@@ -76,7 +67,6 @@
       - As Bridget I want to be able to interview interesting people to create amazing stories
   
       - As Bridget I want to be able to share my stories I create to a global audience quickly and easily
->>>>>>> 965ad1c5d70c0dafb88ea9ebe37c414388846bea
 
     - As Bridget I want to be able to interview interesting people to create amazing stories
 
@@ -92,21 +82,12 @@
 
 ## Wire frames for multiple standard screen sizes, created using industry standard software
 
-<<<<<<< HEAD
-- For all designs online see: https://sketch.cloud/s/kRppA
-- For prototype and interaction with the desktop designs please see: https://sketch.cloud/s/kRppA/a/pnnA8o/play
-- For prototype and interaction with the mobile designs please see: https://sketch.cloud/s/kRppA/v/m1kR0k/a/gnnoZz/play
-
-- Note: This application was designed for mobile first.
-- Below is the wire frames for a mobile devise:
-=======
   - For all designs online see: https://sketch.cloud/s/kRppA 
   - For prototype and interaction with the desktop designs please see: https://sketch.cloud/s/kRppA/a/pnnA8o/play 
   - For prototype and interaction with the mobile designs please see: https://sketch.cloud/s/kRppA/v/m1kR0k/a/gnnoZz/play 
   - Note: This application was designed for mobile first.
 
   - Below is the wire frames for a mobile devise:
->>>>>>> 965ad1c5d70c0dafb88ea9ebe37c414388846bea
 
 ![Mobile Design](./images/mobileDesigns/01_mobile_design.png)
 
