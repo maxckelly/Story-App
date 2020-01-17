@@ -21,7 +21,7 @@
 
 - The target audience of Stoaree is between the ages of 40 - 70 both men and women. The target audience currently has a family and has progressed into their career, they now are beginning to think about what they're wanting to leave behind for their family as well as gaining all the information about their parents so their grandchildren can understand who they were as a person and get an understanding of what they went through in their lifetime.
 
--Though Stoaree is directed at an older demographic, there is a burgeoning younger community involved with podcasts and Youtube. We would like to get them sharing stories and connecting with people of all demographics, providing the service with as many meaningful stories as possible.
+- Though Stoaree is directed at an older demographic, there is a burgeoning younger community involved with podcasts and Youtube. We would like to get them sharing stories and connecting with people of all demographics, providing the service with as many meaningful stories as possible.
 
 ### Tech stack
 
