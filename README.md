@@ -52,7 +52,9 @@
 
     - As John, I find it hard to ask the right questions so I can get the most information out of my Dad.
 
-  - Hi, I'm Bridget a 30 year old living in rural Victoria. I'm currently working full time as a receptionist and living with my boyfriend. Having grown up in rural Victoria I have had a yearn to know more about what other people in different parts of the world have gone through. I love understanding how people came to be who they are through their struggles, people they meet and paths they take in life. My dream as a child I wanted to be a journalist travelling around the world discovering stories. 
+  - Persona 2:
+  
+    - Hi, I'm Bridget a 30 year old living in rural Victoria. I'm currently working full time as a receptionist and living with my boyfriend. Having grown up in rural Victoria I have had a yearn to know more about what other people in different parts of the world have gone through. I love understanding how people came to be who they are through their struggles, people they meet and paths they take in life. My dream as a child I wanted to be a journalist travelling around the world discovering stories. 
 
     - As Bridget I want to browse and listen to particular stories around the world so they I can expand my knowledge and get an understanding of what other people have gone through.
 
@@ -116,9 +118,6 @@
 
   ![Desktop Design](./images/desktopDesigns/08_desktop_design.png)
 
-
-
-
 ## Screenshots of your Jira board throughout the duration of the project
 
   ![Jira Progress](./images/jiraProgress/01-jira-progress.png)
@@ -140,5 +139,3 @@
   ![Jira Progress](./images/jiraProgress/09-jira-progress.png)
   
   ![Jira Progress](./images/jiraProgress/10-jira-progress.png)
-
-
