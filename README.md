@@ -142,6 +142,10 @@
 
   ![Jira Progress](./images/jiraProgress/09-jira-progress.png)
   
-  ![Jira Progress](./images/jiraProgress/10-jira-progress.png)
+  ![Jira Progress](./images/jiraProgress/11-jira-progress.png)
+
+  ![Jira Progress](./images/jiraProgress/12-jira-progress.png)
+
+  ![Jira Progress](./images/jiraProgress/13-jira-progress.png)
 
 
