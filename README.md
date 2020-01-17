@@ -34,7 +34,13 @@
   - Netilfy - Front-end deployment
   - AWS - Cloud storage for audio files and images
 
-## Dataflow Diagram
+## Data Flow Diagram
+
+The first diagram is an overview of data flow throughout the whole app, while the other diagrams go into further detail about processes occurring within the app.
+
+  ![Data Flow Diagram - Overview](images/dataFlowDiagram/data_flow_diagram_0.png)
+  ![Data Flow Diagram - Story Processes](images/dataFlowDiagram/data_flow_diagram_1a.png)
+  ![Data Flow Diagram - User Processes](images/dataFlowDiagram/data_flow_diagram_1b.png)
 
 ## Application Architecture Diagram
 
@@ -46,37 +52,53 @@
 
   - Hi, I'm John a 40 year old, living in Melbourne, Victoria. I'm currently married to my wife Alice and we have twin boys aged 4 and 1 girl aged 7. After recently finding out that my Dad was very sick and only had a number of years to live I became very interested capturing his story so that my children could understand what my Dad was like and how he became who he is today.
 
-  - As John I want to record and capture great stories of loved ones, friends and interesting people so that I can share them amongst family.
+    - As John I want to record and capture great stories of loved ones, friends and interesting people so that I can share them amongst family.
 
-  - As John I want to browse and listen to particular stories in my area so that I can expand my knowledge and understanding of what other people have gone through.
+    - As John I want to browse and listen to particular stories in my area so that I can expand my knowledge and understanding of what other people have gone through.
 
-  - As John I want to be able to save stories that I like so that I can come back to them at a later date.
+    - As John I want to be able to save stories that I like so that I can come back to them at a later date.
 
-  - As John, I want to be able to share stories about my Dad to only my family and friends.
+    - As John, I want to be able to share stories about my Dad to only my family and friends.
 
-  - As John, I find it hard to ask the right questions so I can get the most information out of my Dad.
+    - As John, I find it hard to ask the right questions so I can get the most information out of my Dad.
+
+    - As John, I want to add tags to my stories so people can easily find them when searching for similar stories.
 
 - Persona 2:
 
   - Hi, I'm Bridget a 30 year old living in rural Victoria. I'm currently working full time as a receptionist and living with my boyfriend. Having grown up in rural Victoria I have had a yearn to know more about what other people in different parts of the world have gone through. I love understanding how people came to be who they are through their struggles, people they meet and paths they take in life. My dream as a child I wanted to be a journalist travelling around the world discovering stories.
 
-    - As Bridget I want to browse and listen to particular stories around the world so they I can expand my knowledge and get an understanding of what other people have gone through.
+    - As Bridget, I want to browse and listen to particular stories around the world so they I can expand my knowledge and get an understanding of what other people have gone through.
 
-    - As Bridget I want to save interesting and touching stories so that I can come back and listen to them when I want.
+    - As Bridget, I want to save interesting and touching stories so that I can come back and listen to them when I want.
 
-    - As Bridget I want to be able to share touching and interesting stories with my boyfriend and social network so I can make them aware of what is out there in the world.
+    - As Bridget, I want to be able to share touching and interesting stories with my boyfriend and social network so I can make them aware of what is out there in the world.
 
-    - As Bridget I want to be able to interview interesting people to create amazing stories
+    - As Bridget, I want to be able to interview interesting people to create amazing stories.
 
-    - As Bridget I want to be able to share my stories I create to a global audience quickly and easily
+    - As Bridget, I want to be able to share my stories I create to a global audience quickly and easily.
 
 - Persona 3:
 
   - Hi, I'm Noah a 15-year-old boy living in metropolitan Melbourne. I'm currently creating my own podcast and launching my Youtube channel and in year 9 VCE. I am looking for ways to develop my interview and presenting persona so I can be a successful content creator in the future. I love watching other content creators and trying to keep up with all the latest podcasts.
 
-    - As Noah, I like that I can use the app to interview people for free and get my content out to the masses
+    - As Noah, I like that I can use the app to interview people for free and get my content out to the masses.
 
-    - As Noah, Stoaree helps me keep up to date with the latest stories trending on the internet
+    - As Noah, Stoaree helps me keep up to date with the latest stories trending on the internet.
+
+    - As Noah, I want to browse the profiles of people with interesting stories so I can see more of their work.
+
+- Persona 4:
+
+  - Hi, I'm Alex, a 50 year old living in Sydney. I have been through several different careers in my life that have taken me across the country and I have learned a lot of things from my experiences. My son (who lives in Melbourne) suggested that I record some of my experiences to share with his colleagues, but I am not well-versed enough with technology to know how to do this on my own.
+
+    - As Alex, I want to be able to record my story through a straightforward and easy-to-use interface so that I don't have to bother with any complicated recording software.
+
+    - As Alex, I want to have questions provided for me so I can more easily organise how to tell my story.
+
+    - As Alex, I want to be able to make my story private because I want more control over who listens to my story.
+
+    - As Alex, I want to be able to easily navigate the app on my smartphone, since I don't own a desktop computer.
 
 ## Wire frames for multiple standard screen sizes, created using industry standard software
 
@@ -85,7 +107,7 @@
 - For prototype and interaction with the mobile designs please see: https://sketch.cloud/s/kRppA/v/m1kR0k/a/gnnoZz/play
 
 - Note: This application was designed for mobile first.
-- Below is the wire frames for a mobile devise:
+- Below is the wire frames for a mobile device:
 
 ![Mobile Design](./images/mobileDesigns/01_mobile_design.png)
 
