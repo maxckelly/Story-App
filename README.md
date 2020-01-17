@@ -68,6 +68,15 @@ The first diagram is an overview of data flow throughout the whole app, while th
 
     - As Bridget I want to be able to share my stories I create to a global audience quickly and easily
 
+  - Hi, I'm Nicole, a 50 year old living in Sydney. I have been through several different careers in my life that have taken me across the country and I have learned a lot of things from my experiences. My son suggested that I record some of my experiences to share with his colleagues, but I am not well-versed enough with technology to figure out how to do this on my own.
+
+    - As Nicole, I want to be able to record my audio through a straightforward and easy-to-use interface so that I don't have to bother with any complicated recording software.
+
+    - As Nicole, I want to have questions provided for me so I can more easily organise how to tell my story.
+
+    - As Nicole, I want to be able to make my story private because I want more control over who listens to my story.
+
+    - As Nicole, I want to be able to easily navigate the app on my smartphone, since I don't own a desktop computer.
 
 ## Wire frames for multiple standard screen sizes, created using industry standard software - Max
 
